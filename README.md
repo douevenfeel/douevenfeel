@@ -2,4 +2,4 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=douevenfeel&theme=material-palenight)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douevenfeel&theme=material-palenight&card_width=450&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douevenfeel&theme=material-palenight&card_width=445&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
